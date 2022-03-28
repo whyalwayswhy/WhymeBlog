@@ -4,9 +4,9 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/vueblog?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=Asia/Shanghai
     username: root
-    password: 123456
+    password: xxxxxx
 #  redis:
-#    host: 47.103.37.158
+#    host:
 #    port: 6379
 
 mybatis-plus:
@@ -14,7 +14,7 @@ mybatis-plus:
 #shiro-redis:
 #  enabled: true
 #  redis-manager:
-#    host: 47.103.37.158:6379
+#    host: 
 server:
   port: 8081
 markerhub:
